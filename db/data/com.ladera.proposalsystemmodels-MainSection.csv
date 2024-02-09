@@ -1,0 +1,3 @@
+id,mainSectiontitle,textarea,imagearea,createdBy,createdAt,modifiedBy,modifiedAt,proposalDetails_id
+1,Main Section 1,This is the text for main section 1,,user1,2024-02-08 08:00:00,user1,2024-02-08 08:00:00,1
+2,Main Section 2,This is the text for main section 2,,user2,2024-02-08 08:00:00,user2,2024-02-08 08:00:00,2

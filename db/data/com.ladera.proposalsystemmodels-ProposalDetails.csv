@@ -1,0 +1,3 @@
+id,referenceId,projectname,projectType_id,proposedDate,proposedBy,proposerRole,proposerDepartment,createdBy,createdAt,modifiedBy,modifiedAt,proposalOwner_id,proposalClient_id
+1,REF001,Project A,1,2024-02-08,user1,Manager,Department A,user1,2024-02-08 08:00:00,user1,2024-02-08 08:00:00,1,1
+2,REF002,Project B,2,2024-02-08,user2,Director,Department B,user2,2024-02-08 08:00:00,user2,2024-02-08 08:00:00,2,2
