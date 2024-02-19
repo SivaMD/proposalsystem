@@ -1,0 +1,3 @@
+id,referenceId,projectName,PS_PROJECT_TYPE_id,proposedDate,validTillDate,proposedBy,proposerRole,proposerDepartment,createdBy,createdAt,modifiedBy,modifiedAt,PS_VENDOR_ORG_id,PS_CUSTOMER_ORG_id
+1,REF001,Project A,1,2024-02-15,2024-03-15,User1,Manager,IT,admin,2024-02-13 09:00,admin,2024-02-13 09:00,1,1
+2,REF002,Project B,2,2024-02-16,2024-03-16,User2,Manager,Finance,admin,2024-02-13 09:05,admin,2024-02-13 09:05,2,2

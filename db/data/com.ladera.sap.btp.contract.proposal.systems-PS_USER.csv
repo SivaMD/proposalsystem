@@ -1,0 +1,3 @@
+id,emailId,password,createdBy,createdAt,modifiedBy,modifiedAt
+1,user1@example.com,password,admin,2024-02-13 08:00,admin,2024-02-13 08:00
+2,user2@example.com,password,admin,2024-02-13 08:05,admin,2024-02-13 08:05

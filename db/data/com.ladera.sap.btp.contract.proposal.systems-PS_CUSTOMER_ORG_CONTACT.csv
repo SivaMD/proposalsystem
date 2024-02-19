@@ -1,0 +1,3 @@
+id,addressLine1,addressLine2,addressLine3,city,pincode,state,country,contact_person_1_mobileNumber,contact_person_1_telephoneNumber,contact_person_1_emailId,contact_person_2_mobileNumber,contact_person_2_telephoneNumber,contact_person_2_emailId,createdBy,createdAt,modifiedBy,modifiedAt,PS_CUSTOMER_ORG_id
+1,789 Elm St,Suite 200,,Anycity,67890,TX,USA,+1 111 222 3333,+1 111 222 3333,contact@customerX.com,,,,admin,2024-02-13 08:40,admin,2024-02-13 08:40,1
+2,987 Maple St,Floor 4,,Anytown,09876,NJ,USA,+1 444 555 6666,+1 444 555 6666,contact@customerY.com,,,,admin,2024-02-13 08:45,admin,2024-02-13 08:45,2

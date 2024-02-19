@@ -1,3 +1,0 @@
-id,doorNo,streetName,city,pincode,state,Country,mobileNumber,telephoneNumber,emailId,password,createdBy,createdAt,modifiedBy,modifiedAt,proposalClient_id
-1,123,Main St,City A,12345,State A,Country A,1234567890,123-456-7890,clienta@example.com,clienta_password,user1,2024-02-08 08:00:00,user1,2024-02-08 08:00:00,1
-2,456,First Ave,City B,54321,State B,Country B,9876543210,987-654-3210,clientb@example.com,clientb_password,user2,2024-02-08 08:00:00,user2,2024-02-08 08:00:00,2

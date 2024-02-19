@@ -1,0 +1,3 @@
+id,addressLine1,addressLine2,addressLine3,city,pincode,state,country,contact_person_1_mobileNumber,contact_person_1_telephoneNumber,contact_person_1_emailId,contact_person_2_mobileNumber,contact_person_2_telephoneNumber,contact_person_2_emailId,createdBy,createdAt,modifiedBy,modifiedAt,PS_VENDOR_ORG_id
+1,123 Main St,Suite 100,,Anytown,12345,CA,USA,+1 123 456 7890,+1 123 456 7890,contact@vendorA.com,,,,admin,2024-02-13 08:20,admin,2024-02-13 08:20,1
+2,456 Oak St,Floor 3,,Anycity,54321,NY,USA,+1 987 654 3210,+1 987 654 3210,contact@vendorB.com,,,,admin,2024-02-13 08:25,admin,2024-02-13 08:25,2

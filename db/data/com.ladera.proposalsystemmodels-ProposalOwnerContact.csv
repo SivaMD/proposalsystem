@@ -1,3 +1,0 @@
-id,doorNo,streetName,city,pincode,state,Country,mobileNumber,telephoneNumber,emailId,password,createdBy,createdAt,modifiedBy,modifiedAt,proposalOwner_id
-1,789,Second St,City C,67890,State C,Country C,9871234560,987-123-4560,ownerA@example.com,ownerA_password,user1,2024-02-08 08:00:00,user1,2024-02-08 08:00:00,1
-2,321,Third Ave,City D,09876,State D,Country D,6547893210,654-789-3210,ownerB@example.com,ownerB_password,user2,2024-02-08 08:00:00,user2,2024-02-08 08:00:00,2
